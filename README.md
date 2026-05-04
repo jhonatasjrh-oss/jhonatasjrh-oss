@@ -1,34 +1,38 @@
-👋 Olá, eu sou Jhonatas Amarante
+# 👋 Olá! Bem-vindo ao meu GitHub
 
-💻 Programador Front-end Júnior em constante evolução para me tornar um Desenvolvedor Full Stack.
 
-Tenho 37 anos, sou casado e pai da Hanna — minha maior motivação diária. 🚀
-🚀 Sobre mim
+## 🚀 Sobre Mim
+
+💻 Sou um **Programador Front End/Back End** em evolução para me tornar **Desenvolvedor Full Stack**.
+
+Tenho 37 anos, sou casado e pai da Hanna — a minha maior motivação diária é minha Família. 🚀
 
 Atualmente trabalho de forma independente, ajudando pequenos empreendedores e empresas a fortalecerem sua presença digital e aumentarem seus resultados.
 
-Tenho experiência prática no desenvolvimento de soluções digitais como:
-
-🌐 Páginas de vendas (Landing Pages)
-⚙️ Sistemas básicos personalizados
-📱 Gestão de Social Media
-📍 Google Meu Negócio
-📊 Tráfego pago (estratégia e execução)
-
-Sou movido por aprendizado constante, buscando evoluir minhas habilidades técnicas e entregar cada vez mais valor através da tecnologia.
-
-🎯 Objetivo
-
-Me tornar um desenvolvedor Full Stack completo, dominando tanto o front-end quanto o back-end, e criando soluções digitais escaláveis e eficientes.
-
-🛠️ Tecnologias e estudos atuais
-HTML, CSS, JavaScript
-React (em evolução)
-Node.js (em aprendizado)
-Banco de dados (iniciando estudos)
-📈 Em constante evolução
-
 Acredito que a tecnologia é uma ferramenta poderosa de transformação — e estou comprometido em crescer todos os dias, tanto profissionalmente quanto pessoalmente.
+
+
+## 💻 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🎯 O Que Eu Faço
+
+✅ Desenvolvimento de **Lading pages modernas e responsivas**  
+✅ Desenvolvimento de **Agentes de IA**    
+✅ Desenvolvimento de **Sistemas & Apps Diversos**    
+✅ Integração de **frontend e backend** em harmonia perfeita
+
+  
+
 
 📫 Vamos conectar?
 
